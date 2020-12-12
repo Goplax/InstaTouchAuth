@@ -1,6 +1,7 @@
 # InstaTouchAuth
 
-A new Flutter project.
+This code is uploaded with explanation of following tutorial.
+- [Using Fingerprint and FaceID Authentication with Flutter](https://instacodeblog.com/using-fingerprint-and-faceid-authentication-with-flutter/)
 
 ## Getting Started
 
